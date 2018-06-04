@@ -1,0 +1,24 @@
+{
+  "name": "januszmotorpol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosyu/JanuszMotorpol.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tosyu/JanuszMotorpol/issues"
+  },
+  "homepage": "https://github.com/tosyu/JanuszMotorpol#readme",
+  "dependencies": {
+    "slack": "^11.0.0",
+    "ws": "^5.2.0"
+  }
+}
